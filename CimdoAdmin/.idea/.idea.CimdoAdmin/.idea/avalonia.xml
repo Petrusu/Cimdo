@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="App.axaml" value="CimdoAdmin.csproj" />
+        <entry key="AutorizationPage.axaml" value="CimdoAdmin.csproj" />
+        <entry key="MainPage.axaml" value="CimdoAdmin.csproj" />
+        <entry key="MainWindow.axaml" value="CimdoAdmin.csproj" />
+        <entry key="MassageBoxWindow.axaml" value="CimdoAdmin.csproj" />
+        <entry key="WindowOrPage/AutorizationPage.axaml" value="CimdoAdmin.csproj" />
+        <entry key="WindowOrPage/MainPage.axaml" value="CimdoAdmin.csproj" />
+        <entry key="WindowOrPage/MainWindow.axaml" value="CimdoAdmin.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
